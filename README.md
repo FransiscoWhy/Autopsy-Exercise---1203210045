@@ -2,7 +2,7 @@
 Membuat folder yang memiliki fungsi masing masing untuk menyimpan seperti file Document, image. Serta menyimpan sebuah data atau notepad yang digunakan sebagai riwayat penyelidikan
  
 1).  Tampilan awal dari Autopsy , setelah itu pilih "New Case"
- ![image](https://github.com/FransiscoWhy/Autopsy-Exercise---1203210045/assets/141225950/62e4d8bc-40fc-4482-9382-6ccebd870f98)
+![image](https://github.com/FransiscoWhy/Autopsy-Exercise---1203210045/assets/141225950/b6147541-7f47-4e32-a6af-e25181092d59)
  
 2.) Selanjutnya memberikan nama Case yang akan kita buat dan lokasi dimana kita menyimpan
  ![image](https://github.com/FransiscoWhy/Autopsy-Exercise---1203210045/assets/141225950/22f565b2-eccc-4afb-9134-319f233a67a0)

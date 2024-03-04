@@ -5,8 +5,7 @@ Membuat folder yang memiliki fungsi masing masing untuk menyimpan seperti file D
 ![image](https://github.com/FransiscoWhy/Autopsy-Exercise---1203210045/assets/141225950/b6147541-7f47-4e32-a6af-e25181092d59)
  
 2.) Selanjutnya memberikan nama Case yang akan kita buat dan lokasi dimana kita menyimpan
- ![image](https://github.com/FransiscoWhy/Autopsy-Exercise---1203210045/assets/141225950/22f565b2-eccc-4afb-9134-319f233a67a0)
- ![image](https://github.com/FransiscoWhy/Autopsy-Exercise---1203210045/assets/141225950/8fdfb586-357c-433e-aea7-f4302b5f60ef)
+![image](https://github.com/FransiscoWhy/Autopsy-Exercise---1203210045/assets/141225950/43c36bc2-5e64-4c92-8861-aa02b204b613)
 
 3). Langkah ini kita mencari tahu atau menentukan host name yang ada didalam laptop dan melampirkan beberapa sumber
 ![image](https://github.com/FransiscoWhy/Autopsy-Exercise---1203210045/assets/141225950/1a6c6c95-e1ce-4b60-b04c-6006e9dd57fa)
